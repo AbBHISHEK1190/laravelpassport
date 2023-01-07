@@ -1,4 +1,5 @@
 <?php
+// php artisan passport:install
 
 namespace App\Http\Controllers\api;
 
